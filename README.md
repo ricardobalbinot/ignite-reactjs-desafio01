@@ -11,13 +11,13 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ricardobalbinot/conceitos-reactjs.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ricardobalbinot/ignite-reactjs-desafio01.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ricardobalbinot/conceitos-reactjs.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ricardobalbinot/ignite-reactjs-desafio01.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ricardobalbinot/conceitos-reactjs.svg">
-  <a href="https://github.com/ricardobalbinot/conceitos-reactjs/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ricardobalbinot/conceitos-reactjs.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ricardobalbinot/ignite-reactjs-desafio01.svg">
+  <a href="https://github.com/ricardobalbinot/ignite-reactjs-desafio01/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ricardobalbinot/ignite-reactjs-desafio01.svg">
   </a>
 </p>
 
